@@ -2,13 +2,13 @@
 
 I'm **Jhea Jhana Prudencio**, a BS Information Technology graduate with experience in web application development.
 
-## About Me 🌷
+## About Me
 
 I'm an aspiring **Frontend Developer** and **UI/UX Designer** who enjoys creating intuitive, accessible, and visually appealing digital experiences.
 Although I've worked on both frontend and backend development, I found my passion in bringing ideas to life through user interfaces and thoughtful design.
 Outside of coding, I enjoy exploring different forms of art, design, music, and creativity—interests that inspire the way I build and design applications.
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Languages & Frameworks | Database & Tools |
 | ---------------------- | ---------------- |
